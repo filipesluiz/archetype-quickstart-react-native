@@ -1,0 +1,10 @@
+export const EMAIL_CHANGED = 'email_changed';
+export const PASSWORD_CHANGED = 'password_changed';
+export const LOGIN_USER_SUCCESS = 'login_sucess';
+export const LOGIN_USER_FAIL = 'login_fail';
+export const LOGIN_USER = 'login_user';
+export const PROFILE_UPDATE = 'profile_update';
+export const PROFILE_FETCH_SUCCESS = 'profile_fetch';
+export const HOME_FETCH_PENDING = 'home_fetch_pending';
+export const HOME_FETCH_SUCCESS = 'home_fetch_success';
+export const HOME_FETCH_ERROR = 'home_fetch_error';
